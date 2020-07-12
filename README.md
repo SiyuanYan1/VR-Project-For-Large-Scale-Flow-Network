@@ -1,4 +1,4 @@
-VR-project-for-large-scale-flow-network
+# FIT3162 VR
 
 UPS have been considering new ways of exploring data to make operational decisions. Immersive data analytics utilizing virtual reality (VR) technology could be the way of the future, and our project sets out to demonstrate its capabilities and real-world applications. The goal of the project is to create a visualization program to facilitate analysis and decision
 making based on large package flow data sets, using new immersive analytics technology. We have reviewed various techniques that may help us to proceed. These include current 2D visualizations such as flow maps with flow bundling, OD maps, and Flowstrates, as well
